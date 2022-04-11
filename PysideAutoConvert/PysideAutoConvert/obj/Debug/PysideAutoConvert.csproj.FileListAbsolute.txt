@@ -1,0 +1,10 @@
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\bin\Debug\PysideAutoConvert.exe.config
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\bin\Debug\PysideAutoConvert.exe
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\bin\Debug\PysideAutoConvert.pdb
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Debug\PysideAutoConvert.csproj.AssemblyReference.cache
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Debug\PysideAutoConvert.Form1.resources
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Debug\PysideAutoConvert.Properties.Resources.resources
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Debug\PysideAutoConvert.csproj.GenerateResource.cache
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Debug\PysideAutoConvert.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Debug\PysideAutoConvert.exe
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Debug\PysideAutoConvert.pdb

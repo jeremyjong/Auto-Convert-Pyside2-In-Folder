@@ -1,0 +1,9 @@
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\bin\Release\PysideAutoConvert.exe.config
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\bin\Release\PysideAutoConvert.exe
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\bin\Release\PysideAutoConvert.pdb
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Release\PysideAutoConvert.Form1.resources
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Release\PysideAutoConvert.Properties.Resources.resources
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Release\PysideAutoConvert.csproj.GenerateResource.cache
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Release\PysideAutoConvert.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Release\PysideAutoConvert.exe
+C:\Users\Jeremy\source\repos\PysideAutoConvert\PysideAutoConvert\obj\Release\PysideAutoConvert.pdb
